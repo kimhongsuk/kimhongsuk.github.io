@@ -12,8 +12,8 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "VDSs (한이음 ICT)"
-project_one_description: Describe your project!
-project_one_url: https://github.com/kimhongsuk/kimhongsuk.github.io
+project_one_description: "고령운전자 평가"
+project_one_url: https://github.com/Aibia/VDSS.git
 project_one_icon: location_on
 
 project_two: Second Project
