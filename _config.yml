@@ -11,7 +11,7 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: VDSs (한이음 ICT)
+project_one: "VDSs (한이음 ICT)"
 project_one_description: Describe your project!
 project_one_url: https://github.com/kimhongsuk/kimhongsuk.github.io
 project_one_icon: location_on
